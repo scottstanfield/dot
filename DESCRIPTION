@@ -1,0 +1,9 @@
+Package: dot
+Title: Reference files local to the source file script (dot or . in unix)
+Version: 0.0.0.9000
+Authors@R: person("Scott", "Stanfield", email = "scottstanfield@gmail.com", role = c("aut", "cre"))
+Description: Allows you to execute an R script from a remote path, and that R script can still locate files relative to it.
+Depends: R (>= 3.3.3)
+License: MIT
+Encoding: UTF-8
+LazyData: true
